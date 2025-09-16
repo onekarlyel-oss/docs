@@ -10,10 +10,14 @@ description: >-
 
 Explore definitions of:
 
-• Blockchain fundamentals (e.g., smart contracts, gas fees)\
-• Trading terms (e.g., stop-loss, leverage, bull/bear market)\
-• Technical indicators\
-• DeFi and Web3 concepts\
+• Blockchain fundamentals (e.g., smart contracts, gas fees)
+\
+• Trading terms (e.g., stop-loss, leverage, bull/bear market)
+\
+• Technical indicators
+\
+• DeFi and Web3 concepts
+\
 • NFT and metaverse vocabulary
 
 Use it as your quick reference as you learn and trade.
@@ -22,6 +26,6 @@ Use it as your quick reference as you learn and trade.
 Final Word: Education Is Ownership
 {% endhint %}
 
-At Zater Capital, education isn’t just a bonus — it’s a pillar of our ecosystem. We don’t just want you to profit; we want you to understand your tools, manage your risk, and own your future as a crypto trader.
+At Zionix Global, education isn’t just a bonus — it’s a pillar of our ecosystem. We don’t just want you to profit; we want you to understand your tools, manage your risk, and own your future as a crypto trader.
 
 Start learning today. Evolve from user to strategist. From follower to leader.

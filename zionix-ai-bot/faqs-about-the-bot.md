@@ -44,6 +44,6 @@ Yes. Higher-tier users (Advanced and above) can activate multiple bots or custom
 
 <summary>Are bots updated or improved over time?</summary>
 
-Absolutely. Zater Capital continuously evolves its AI models. Users in Advanced, Elite, and VIP tiers receive early access to new bot versions and exclusive strategies.
+Absolutely. Zionix Global continuously evolves its AI models. Users in Advanced, Elite, and VIP tiers receive early access to new bot versions and exclusive strategies.
 
 </details>

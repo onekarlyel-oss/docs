@@ -14,14 +14,15 @@ Choose a license tier
 
 Each tier (Starter, Standard, Advanced, Elite, VIP) unlocks increasing features, training access, and income potential.
 
-\
+
+\
 Tip: Higher tiers receive more trading signals, higher daily returns, advanced bot types, and exclusive services.
 {% endstep %}
 
 {% step %}
 Purchase your license
 
-Pay the license fee using available funds in your zater wallet balance
+Pay the license fee using available funds in your zionix wallet balance
 
 ***
 {% endstep %}

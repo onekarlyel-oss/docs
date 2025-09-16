@@ -2,7 +2,7 @@
 
 ***
 
-To serve our diverse, global user base, Zater Capital offers region-specific communities and language-based groups, including:
+To serve our diverse, global user base, Zionix Global offers region-specific communities and language-based groups, including:
 
 • Africa | Europe | Asia | Middle East | North & South America
 
@@ -10,9 +10,12 @@ To serve our diverse, global user base, Zater Capital offers region-specific com
 
 **These localized groups offer:**
 
-• Regional news and updates\
-• Language-specific training content\
-• Meetups and online events tailored to your location\
+• Regional news and updates
+\
+• Language-specific training content
+\
+• Meetups and online events tailored to your location
+\
 • Peer networking in your time zone and context
 
 Ask your onboarding mentor or dashboard assistant for links to your local group.

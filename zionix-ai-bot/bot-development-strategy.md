@@ -1,5 +1,5 @@
 ---
-description: ZATER CAPITAL CRYPTO BOT DEVELOPMENT STRATEGY
+description: Zionix Global CRYPTO BOT DEVELOPMENT STRATEGY
 ---
 
 # Bot Development Strategy
@@ -21,9 +21,12 @@ Zionix Globall has engineered a powerful suite of AI-driven trading bots designe
    \
    Each bot is backed by a proprietary AI algorithm built using:\
    \
-   • Real-time market analysis   \
-   • Historical trend data   \
-   • Order book analysis   \
+   • Real-time market analysis
+   \
+   • Historical trend data
+   \
+   • Order book analysis
+   \
    • Sentiment and volatility metrics\
    \
    These algorithms are constantly learning and adapting to changing market conditions, ensuring that strategies stay current and profitable.\
@@ -52,8 +55,10 @@ At Zionix Global, safety and sustainability are at the core of every trade. Here
    \
    Our system constantly monitors market health indicators such as volatility spikes, volume drops, and unusual price behavior. If detected, the bot will:\
    \
-   • Pause trading   \
-   • Reduce trading frequency   \
+   • Pause trading
+   \
+   • Reduce trading frequency
+   \
    • Reallocate to safer pairs or stable assets\
 
 4. **Exposure Limits & Diversification**\

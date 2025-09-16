@@ -6,7 +6,7 @@ description: The Future in Motion
 
 ***
 
-Here’s what’s on the horizon for Zater Capital. Features are released in structured phases, ensuring quality, transparency, and scalability.
+Here’s what’s on the horizon for Zionix Global. Features are released in structured phases, ensuring quality, transparency, and scalability.
 
 {% stepper %}
 {% step %}
@@ -18,27 +18,42 @@ Official Launch, First 100,000 Users, Global Expansion (USA, Asia,Africa, Europe
 {% step %}
 **Q3 2025 (Current Phase)**
 
-• Launch of NFT Bot License Marketplace\
-• DAO Implementation\
-• (DAO-based Governance Voting System for protocol-level decisions\
-• Integrated Leaderboard & Performance Badges\
-• New VIP-only AI Bot Models (Master AI v2.0)\
-• Tiered Referral & Ambassador System\
-• Beta Tester Access for upcoming strategies\
-• Full deployment of Bot Customization Module (adjustable risk profiles, pair targeting)\
-• Multi-Exchange API Support for manual trading & bot bridging\
-• Launch of Trading Tournament Platform with real prize pools\
-• DeFi Staking Pools for passive yield enhancement\
+• Launch of NFT Bot License Marketplace
+\
+• DAO Implementation
+\
+• (DAO-based Governance Voting System for protocol-level decisions
+\
+• Integrated Leaderboard & Performance Badges
+\
+• New VIP-only AI Bot Models (Master AI v2.0)
+\
+• Tiered Referral & Ambassador System
+\
+• Beta Tester Access for upcoming strategies
+\
+• Full deployment of Bot Customization Module (adjustable risk profiles, pair targeting)
+\
+• Multi-Exchange API Support for manual trading & bot bridging
+\
+• Launch of Trading Tournament Platform with real prize pools
+\
+• DeFi Staking Pools for passive yield enhancement
+\
 • Regional dashboard translations (French, Arabic, Spanish)
 {% endstep %}
 
 {% step %}
 **Q4 2025 – 2026 Vision**
 
-• AI Evolution (Quantum Computing Integration), Stock & Forex Expansion, IPO Consideration\
-• Rollout of the Zater Capital Mobile App (iOS & Android)\
-• AI Strategy Marketplace for third-party bot developers\
-• Integration with hardware wallets for enhanced non-custodial control\
+• AI Evolution (Quantum Computing Integration), Stock & Forex Expansion, IPO Consideration
+\
+• Rollout of the Zionix Global Mobile App (iOS & Android)
+\
+• AI Strategy Marketplace for third-party bot developers
+\
+• Integration with hardware wallets for enhanced non-custodial control
+\
 • Web3 Gamification Layer (XP, quests, badges, community rewards)
 
 {% hint style="info" %}
