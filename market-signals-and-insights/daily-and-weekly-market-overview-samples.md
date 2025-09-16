@@ -16,15 +16,17 @@ Alongside trading alerts, members receive market analysis updates that provide c
 
 These insights help you:
 
-• Time your trades more accurately\
-• Understand the macro and micro market environment\
+• Time your trades more accurately
+\
+• Understand the macro and micro market environment
+\
 • Develop an intuition for crypto movements beyond technicals
 
 
 
 ### Conclusion : Trade With Precision, Not Emotion
 
-Zatar Capital’s trading signals combine the speed of AI with the strategic oversight of seasoned analysts. Whether you’re fully automated or partially manual, our system ensures you’re never left trading blindly.
+Zionix Global’s trading signals combine the speed of AI with the strategic oversight of seasoned analysts. Whether you’re fully automated or partially manual, our system ensures you’re never left trading blindly.
 
 Get the edge. Know the move. Make it count.
 
