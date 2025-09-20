@@ -20,7 +20,7 @@ Yes. You have full access to trading logs, performance charts, and profit summar
 
 <summary>Is my capital safe?</summary>
 
-Your funds remain in your non-custodial wallet and are only accessed by the bot during active trading. Capital is subject to a 30-day lock to protect against impulsive withdrawals and ensure strategy integrity.
+Your funds remain in your non-custodial wallet and are only accessed by the bot during active trading. Capital is subject to a 180-day lock to protect against impulsive withdrawals and ensure strategy integrity.
 
 </details>
 
@@ -36,7 +36,7 @@ The bot’s built-in risk parameters (like dynamic stop-loss and smart exit) are
 
 <summary>Can I use multiple bots at once?</summary>
 
-Yes. Higher-tier users (Advanced and above) can activate multiple bots or customize them based on trading goals.
+Yes, users can activate multiple bots and earn simultaneously on all bots once there is an active annual license on the user account.
 
 </details>
 
