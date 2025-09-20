@@ -59,4 +59,5 @@
   * [Privacy Policy](legal-and-compliance/privacy-policy.md)
   * [Risk Disclosure](legal-and-compliance/risk-disclosure.md)
   * [Disclaimer](legal-and-compliance/disclaimer.md)
+  * [User Account Terms Of Use](legal-and-compliance/user-account-terms-of-use.md)
 * [FAQ ( Frequently Asked Questions )](faq-frequently-asked-questions.md)
